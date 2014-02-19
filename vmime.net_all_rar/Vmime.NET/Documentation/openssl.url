@@ -1,0 +1,7 @@
+[DEFAULT]
+BASEURL=http://www.openssl.org/docs/
+[InternetShortcut]
+URL=http://www.openssl.org/docs/
+Modified=E038DAFA9B09CF0160
+IconFile=http://www.openssl.org/favicon.ico
+IconIndex=1
